@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-code-2021-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest index.test.js"
+  },
+  "author": "LilPecky (lolsokje)",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
